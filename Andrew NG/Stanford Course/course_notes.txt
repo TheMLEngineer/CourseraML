@@ -1,0 +1,134 @@
+
+
+
+
+"A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E."
+
+Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to better filter spam. What is the task T in this setting?
+
+
+
+
+
+
+
+Classify emails as spam or not spam. (A) (Task T)
+
+
+Watching you label emails as spam or not spam. (Experience E)
+
+
+The number (or fraction) of emails correctly classified as spam/not spam. (Performance P)
+
+
+None of the above, this is not a machine learning algorithm.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+What is Machine Learning?
+Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
+
+Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
+
+Example: playing checkers.
+
+E = the experience of playing many games of checkers
+
+T = the task of playing checkers.
+
+P = the probability that the program will win the next game.
+
+In general, any machine learning problem can be assigned to one of two broad classifications:
+
+Supervised learning and Unsupervised learning.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

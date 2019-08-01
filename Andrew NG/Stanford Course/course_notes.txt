@@ -126,7 +126,31 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 
 
 
+Consider the training set shown below. (x^{(i)}, y^{(i)}) is the i^{th} training example. What is y^{(3)}
 
+Size in feet^2 
+2
+  (xx)	Price ($) in 1000's (yy)
+2104	460
+1416	232
+1534	315
+852	178
+...	...
+
+
+ ( Q is what's y superscript 3 (i.e. 3rd row y value))
+1416
+
+
+1534
+
+
+315 (A)
+
+
+0
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
